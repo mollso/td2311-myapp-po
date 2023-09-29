@@ -40,7 +40,7 @@ func main() {
 		<title>{{.PageHeader}}</title>
 		<style>
 			body {
-				background-color: #22c55e; /* Green background */
+				background-color: #0ea5e9; /* Green background */
 				font-family: Arial, sans-serif;
 			}
 			.container {
@@ -73,7 +73,7 @@ func main() {
 			Pod:        pod,
 			Node:       node,
 			Namespace:  namespace,
-			PageHeader: "Container Information V1",
+			PageHeader: "Container Information V2",
 		}
 
 		// Render the HTML template with the provided data.
