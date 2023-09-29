@@ -73,7 +73,7 @@ func main() {
 			Pod:        pod,
 			Node:       node,
 			Namespace:  namespace,
-			PageHeader: "Container Information V2",
+			PageHeader: "Container Information V3 Alpha",
 		}
 
 		// Render the HTML template with the provided data.
