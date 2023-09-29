@@ -40,7 +40,7 @@ func main() {
 		<title>{{.PageHeader}}</title>
 		<style>
 			body {
-				background-color: #0ea5e9; /* Green background */
+				background-color: #f59e0b; /* Green background */
 				font-family: Arial, sans-serif;
 			}
 			.container {
